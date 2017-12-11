@@ -1,0 +1,368 @@
+"DTSTART;VALUE=DATE";"DTEND;VALUE=DATE";RRULE;SUMMARY
+20180101;20180101;"FREQ=YEARLY;INTERVAL=1";"Maria Santissima Madre di Dio e Circoncisione di Gesù - Solennità; San Fulgenzio di Ruspe; San Vincenzo Maria Strambi (vescovo)"
+20180102;20180102;"FREQ=YEARLY;INTERVAL=1";"santi Basilio Magno e Gregorio Nazianzeno - Memoria; San Serafino di Sarov (Chiese orientali)"
+20180103;20180103;"FREQ=YEARLY;INTERVAL=1";Santissimo Nome di Gesù
+20180104;20180104;"FREQ=YEARLY;INTERVAL=1";sant'Elisabetta Anna Bayley Seton (vedova)
+20180105;20180105;"FREQ=YEARLY;INTERVAL=1";"san Giovanni Nepomuceno (vescovo); san Carlo Houben (sacerdote)"
+20180106;20180106;"FREQ=YEARLY;INTERVAL=1";Epifania - Solennità
+20180107;20180107;"FREQ=YEARLY;INTERVAL=1";"san Raimondo di Peñafort - Memoria facoltativa; san Giuliano"
+20180108;20180108;"FREQ=YEARLY;INTERVAL=1";"san Severino (monaco del V secolo); san Lorenzo Giustiniani (primo patriarca di Venezia)"
+20180109;20180109;"FREQ=YEARLY;INTERVAL=1";san Marcellino (vescovo di Ancona del V secolo)
+20180110;20180110;"FREQ=YEARLY;INTERVAL=1";"I santi Papa Milziade e Papa Agatone; san Paolo di Tebe eremita"
+20180111;20180111;"FREQ=YEARLY;INTERVAL=1";"sant'Igino (papa del II secolo); san Teodosio il Cenobiarca monaco del V secolo"
+20180112;20180112;"FREQ=YEARLY;INTERVAL=1";"san Bernardo da Corleone; sant'Aelredo di Rievaulx; sant'Antonio Maria Pucci"
+20180113;20180113;"FREQ=YEARLY;INTERVAL=1";"sant'Ilario di Poitiers (vescovo e dottore della Chiesa del IV secolo) - Memoria facoltativa; san Remigio di Reims"
+20180114;20180114;"FREQ=YEARLY;INTERVAL=1";san Felice da Nola (confessore della fede)
+20180115;20180115;"FREQ=YEARLY;INTERVAL=1";san Mauro
+20180116;20180116;"FREQ=YEARLY;INTERVAL=1";"santi Berardo, Otone, Pietro, Accursio e Adiuto (protomartiri dell'Ordine dei Frati Minori); san Marcello (papa del IV secolo)"
+20180117;20180117;"FREQ=YEARLY;INTERVAL=1";"sant'Antonio Abate; san Giuliano Saba"
+20180118;20180118;"FREQ=YEARLY;INTERVAL=1";santa Margherita d'Ungheria (principessa e religiosa)
+20180119;20180119;"FREQ=YEARLY;INTERVAL=1";"san Bassiano (vescovo); san Macario il Grande (abate); santa Liberata di Como (monaca benedettina)"
+20180120;20180120;"FREQ=YEARLY;INTERVAL=1";"san Fabiano - Memoria facoltativa; san Sebastiano (martire) - Memoria facoltativa; sant'Enrico di Uppsala (vescovo)"
+20180121;20180121;"FREQ=YEARLY;INTERVAL=1";sant'Agnese (vergine e martire) - Memoria
+20180122;20180122;"FREQ=YEARLY;INTERVAL=1";"santi Vincenzo - Memoria facoltativa; san Vincenzo Pallotti (presbitero fondatore della Società dell'Apostolato Cattolico)"
+20180123;20180123;"FREQ=YEARLY;INTERVAL=1";sant'Emerenziana (vergine e martire)
+20180124;20180124;"FREQ=YEARLY;INTERVAL=1";san Francesco di Sales (vescovo e dottore della Chiesa del XVII secolo) - Memoria
+20180125;20180125;"FREQ=YEARLY;INTERVAL=1";Conversione di San Paolo - Festa
+20180126;20180126;"FREQ=YEARLY;INTERVAL=1";santi Timoteo e Tito - Memoria
+20180127;20180127;"FREQ=YEARLY;INTERVAL=1";sant'Angela Merici - Memoria facoltativa
+20180128;20180128;"FREQ=YEARLY;INTERVAL=1";san Tommaso d'Aquino (sacerdote e dottore della Chiesa) - Memoria
+20180129;20180129;"FREQ=YEARLY;INTERVAL=1";san Valerio di Treviri e san Costanzo di Perugia (vescovi)
+20180130;20180130;"FREQ=YEARLY;INTERVAL=1";"santa Giacinta Marescotti; san Muziano Maria Wiaux; beato Sebastiano Valfrè"
+20180131;20180131;"FREQ=YEARLY;INTERVAL=1";"san Giovanni Bosco - Memoria; san Francesco Saverio Maria Bianchi; san Giulio d'Orta; beata Ludovica Albertoni"
+20180201;20180201;"FREQ=YEARLY;INTERVAL=1";"sant'Orso di Aosta (presbitero); san Sigiberto III il Giovane (re d'Austrasia)"
+20180202;20180202;"FREQ=YEARLY;INTERVAL=1";Presentazione del Signore - Festa
+20180203;20180203;"FREQ=YEARLY;INTERVAL=1";"san Biagio (vescovo e martire) - Memoria facoltativa; sant'Oscar o Ansgario (vescovo) - Memoria facoltativa"
+20180204;20180204;"FREQ=YEARLY;INTERVAL=1";"sant'Andrea Corsini (vescovo); san Giovanni de Britto"
+20180205;20180205;"FREQ=YEARLY;INTERVAL=1";sant'Agata (vergine e martire) - Memoria
+20180206;20180206;"FREQ=YEARLY;INTERVAL=1";san Paolo Miki e compagni (martiri) - Memoria
+20180207;20180207;"FREQ=YEARLY;INTERVAL=1";"san Giovanni da Triora (presbitero O.F.M.); beato Papa Pio IX"
+20180208;20180208;"FREQ=YEARLY;INTERVAL=1";"san Girolamo Emiliani - Memoria facoltativa; santa Giuseppina Bakhita (vergine)"
+20180209;20180209;"FREQ=YEARLY;INTERVAL=1";sant'Apollonia
+20180210;20180210;"FREQ=YEARLY;INTERVAL=1";santa Scolastica - Memoria
+20180211;20180211;"FREQ=YEARLY;INTERVAL=1";Nostra Signora di Lourdes - Memoria facoltativa
+20180212;20180212;"FREQ=YEARLY;INTERVAL=1";san Melezio di Antiochia (vescovo)
+20180213;20180213;"FREQ=YEARLY;INTERVAL=1";san Fulcranno di Lodeve (vescovo)
+20180214;20180214;"FREQ=YEARLY;INTERVAL=1";"santi Cirillo e Metodio (patroni d'Europa) - Festa; san Valentino (vescovo e martire)"
+20180215;20180215;"FREQ=YEARLY;INTERVAL=1";"san Claudio de la Colombière (religioso S.I.); san Sigfrido di Vaxjo (vescovo); Santa Giorgia (vergine)"
+20180216;20180216;"FREQ=YEARLY;INTERVAL=1";santa Giuliana di Nicomedia (martire)
+20180217;20180217;"FREQ=YEARLY;INTERVAL=1";santi Sette Fondatori dell'Ordine dei Servi della Beata Vergine Maria - Memoria facoltativa
+20180218;20180218;"FREQ=YEARLY;INTERVAL=1";san Francesco Regis Clet (presbitero C.M. martire in Cina)
+20180219;20180219;"FREQ=YEARLY;INTERVAL=1";san Corrado Confalonieri (eremita francescano del Terzo Ordine)
+20180220;20180220;"FREQ=YEARLY;INTERVAL=1";sant'Eleuterio di Tournai (vescovo)
+20180221;20180221;"FREQ=YEARLY;INTERVAL=1";san Pier Damiani (vescovo e dottore della Chiesa) - Memoria facoltativa
+20180222;20180222;"FREQ=YEARLY;INTERVAL=1";"Cattedra di San Pietro Apostolo - Festa; san Papia di Gerapoli (vescovo e Padre della Chiesa)"
+20180223;20180223;"FREQ=YEARLY;INTERVAL=1";san Policarpo (vescovo e martire) - Memoria
+20180224;20180224;"FREQ=YEARLY;INTERVAL=1";san Sergio di Cesarea (martire)
+20180225;20180225;"FREQ=YEARLY;INTERVAL=1";san Cesario di Nazianzo (confessore)
+20180226;20180226;"FREQ=YEARLY;INTERVAL=1";sant'Alessandro di Alessandria (vescovo) - Commemorazione
+20180227;20180227;"FREQ=YEARLY;INTERVAL=1";"san Leandro di Siviglia (vescovo); san Gabriele dell'Addolorata (religioso)"
+20180228;20180228;"FREQ=YEARLY;INTERVAL=1";san Romano di Condat (abate)
+20180229;20180229;"FREQ=YEARLY;INTERVAL=4";sant' Augusto Chapdelaine
+20180301;20180301;"FREQ=YEARLY;INTERVAL=1";"san Rosendal; sant'Albino"
+20180302;20180302;"FREQ=YEARLY;INTERVAL=1";"san Peter di Zúñiga; san Simplicio (papa)"
+20180303;20180303;"FREQ=YEARLY;INTERVAL=1";"santa Caterina Drexel; san Tiziano (vescovo di Brescia)"
+20180304;20180304;"FREQ=YEARLY;INTERVAL=1";san Casimiro - Memoria facoltativa
+20180305;20180305;"FREQ=YEARLY;INTERVAL=1";sant'Adriano di Cesarea (martire)
+20180306;20180306;"FREQ=YEARLY;INTERVAL=1";"sant'Olegar; beata Rosa da Viterbo (vergine)"
+20180307;20180307;"FREQ=YEARLY;INTERVAL=1";sante Perpetua e Felicita (martiri) - Memoria
+20180308;20180308;"FREQ=YEARLY;INTERVAL=1";san Giovanni di Dio (religioso) - Memoria facoltativa
+20180309;20180309;"FREQ=YEARLY;INTERVAL=1";"santa Francesca Romana (religiosa) - Memoria facoltativa; santa Caterina da Bologna"
+20180310;20180310;"FREQ=YEARLY;INTERVAL=1";santa Maria Eugenia Milleret de Brou
+20180311;20180311;"FREQ=YEARLY;INTERVAL=1";san Costantino
+20180312;20180312;"FREQ=YEARLY;INTERVAL=1";san Nicodemo da Cirò (asceta) o san Luigi Orione (sacerdote)
+20180313;20180313;"FREQ=YEARLY;INTERVAL=1";"san Salomone; san Rodrigo"
+20180314;20180314;"FREQ=YEARLY;INTERVAL=1";Matilde di Ringelheim (regina di Germania)
+20180315;20180315;"FREQ=YEARLY;INTERVAL=1";"santa Luisa de Marillac; san Cesare"
+20180316;20180316;"FREQ=YEARLY;INTERVAL=1";"sant'Eusebio; sant'Ilario di Aquileia"
+20180317;20180317;"FREQ=YEARLY;INTERVAL=1";san Patrizio (vescovo) - Memoria facoltativa, con libagione
+20180318;20180318;"FREQ=YEARLY;INTERVAL=1";san Cirillo di Gerusalemme (vescovo e dottore della Chiesa) - Memoria facoltativa
+20180319;20180319;"FREQ=YEARLY;INTERVAL=1";san Giuseppe, sposo della Beata Vergine Maria - Solennità
+20180320;20180320;"FREQ=YEARLY;INTERVAL=1";"santa Claudia e compagne (martiri); sant'Alessandra di Amiso"
+20180321;20180321;"FREQ=YEARLY;INTERVAL=1";sant'Elia
+20180322;20180322;"FREQ=YEARLY;INTERVAL=1";san Benvenuto Scotivoli (vescovo)
+20180323;20180323;"FREQ=YEARLY;INTERVAL=1";san Turibio de Mogrovejo (vescovo) - Memoria facoltativa
+20180324;20180324;"FREQ=YEARLY;INTERVAL=1";santa Caterina di Svezia
+20180325;20180325;"FREQ=YEARLY;INTERVAL=1";Annunciazione del Signore - Solennità
+20180326;20180326;"FREQ=YEARLY;INTERVAL=1";"santa Lucia Filippini (vergine); Sant'Emanuele"
+20180327;20180327;"FREQ=YEARLY;INTERVAL=1";san Ruperto (vescovo)
+20180328;20180328;"FREQ=YEARLY;INTERVAL=1";san Gontrano (re)
+20180329;20180329;"FREQ=YEARLY;INTERVAL=1";"san Jonah; san Bertoldo (priore generale dei carmelitani)"
+20180330;20180330;"FREQ=YEARLY;INTERVAL=1";"sant'Amedeo; sant'Irene"
+20180331;20180331;"FREQ=YEARLY;INTERVAL=1";"san Stephen; sant'Amos"
+20180401;20180401;"FREQ=YEARLY;INTERVAL=1";"san Venanzio; sant'Ugo di Grenoble (vescovo)"
+20180402;20180402;"FREQ=YEARLY;INTERVAL=1";san Francesco di Paola - Memoria facoltativa
+20180403;20180403;"FREQ=YEARLY;INTERVAL=1";san Luigi Scrosoppi
+20180404;20180404;"FREQ=YEARLY;INTERVAL=1";sant'Isidoro (vescovo e dottore della Chiesa) - Memoria facoltativa
+20180405;20180405;"FREQ=YEARLY;INTERVAL=1";san Vincenzo Ferrer (sacerdote) - Memoria facoltativa
+20180406;20180406;"FREQ=YEARLY;INTERVAL=1";"santa Prudence; beato Michele Rua"
+20180407;20180407;"FREQ=YEARLY;INTERVAL=1";san Giovanni Battista de La Salle - Memoria
+20180408;20180408;"FREQ=YEARLY;INTERVAL=1";"san Dionigi di Corinto; santa Giulia Billiart"
+20180409;20180409;"FREQ=YEARLY;INTERVAL=1";santa Casilda da Toledo
+20180410;20180410;"FREQ=YEARLY;INTERVAL=1";"beato Antonio Neyrot (martire domenicano); San Ezechiele"
+20180411;20180411;"FREQ=YEARLY;INTERVAL=1";san Stanislao - Memoria
+20180412;20180412;"FREQ=YEARLY;INTERVAL=1";"san Giulio I Papa; san Zeno vescovo"
+20180413;20180413;"FREQ=YEARLY;INTERVAL=1";san Martino I - Memoria facoltativa
+20180414;20180414;"FREQ=YEARLY;INTERVAL=1";"san Raoul; santa Liduina"
+20180415;20180415;"FREQ=YEARLY;INTERVAL=1";san Telmo
+20180416;20180416;"FREQ=YEARLY;INTERVAL=1";santa Bernadetta Soubirous
+20180417;20180417;"FREQ=YEARLY;INTERVAL=1";sant'Elia beato Arcangelo di Gubbio
+20180418;20180418;"FREQ=YEARLY;INTERVAL=1";san Calogero
+20180419;20180419;"FREQ=YEARLY;INTERVAL=1";sant'Ermogene
+20180420;20180420;"FREQ=YEARLY;INTERVAL=1";"san Teodoro Trichinas; Santa Sara di Antiochia"
+20180421;20180421;"FREQ=YEARLY;INTERVAL=1";sant'Anselmo di Canterbury (vescovo e dottore della Chiesa) - Memoria facoltativa
+20180422;20180422;"FREQ=YEARLY;INTERVAL=1";san Teodoro di Sikion
+20180423;20180423;"FREQ=YEARLY;INTERVAL=1";"san Giorgio - Memoria facoltativa; sant'Adalberto; beata Maria Gabriella Sagheddu; santa Renata di Lorena"
+20180424;20180424;"FREQ=YEARLY;INTERVAL=1";san Fedele di Sigmaringa (sacerdote e martire) - Memoria facoltativa
+20180425;20180425;"FREQ=YEARLY;INTERVAL=1";san Marco Evangelista - Festa
+20180426;20180426;"FREQ=YEARLY;INTERVAL=1";"santa Hope; sant'Anacleto"
+20180427;20180427;"FREQ=YEARLY;INTERVAL=1";Nostra Signora di Montserrat Santa Zita vergine
+20180428;20180428;"FREQ=YEARLY;INTERVAL=1";"san Pietro Chanel - Memoria facoltativa; san Luigi Maria Grignion da Montfort"
+20180429;20180429;"FREQ=YEARLY;INTERVAL=1";santa Caterina da Siena (vergine e dottore della Chiesa, patrona d'Italia) - Festa (Memoria fuori Italia)
+20180430;20180430;"FREQ=YEARLY;INTERVAL=1";san Pio V (papa) - Memoria facoltativa
+20180501;20180501;"FREQ=YEARLY;INTERVAL=1";"san Giuseppe artigiano - Memoria facoltativa; san Riccardo Pampuri - memoria facoltativa; San Pellegrino Laziosi"
+20180502;20180502;"FREQ=YEARLY;INTERVAL=1";sant'Atanasio (vescovo e dottore della Chiesa) - Memoria
+20180503;20180503;"FREQ=YEARLY;INTERVAL=1";santi Filippo e Giacomo (apostoli) - Festa
+20180504;20180504;"FREQ=YEARLY;INTERVAL=1";san Ciriaco di Gerusalemme
+20180505;20180505;"FREQ=YEARLY;INTERVAL=1";"sant'Angelo da Gerusalemme (martire e carmelitano); san Gottardo"
+20180506;20180506;"FREQ=YEARLY;INTERVAL=1";"san Giovanni ante Portam Latinam; san Lucio di Cirene"
+20180507;20180507;"FREQ=YEARLY;INTERVAL=1";"san Benedetto II; santa Virginia"
+20180508;20180508;"FREQ=YEARLY;INTERVAL=1";san Vittore
+20180509;20180509;"FREQ=YEARLY;INTERVAL=1";"san Luminous; san Pacomio (abate)"
+20180510;20180510;"FREQ=YEARLY;INTERVAL=1";"san Cataldo vescovo; santi Alfio, Filadelfo e Cirino martiri; beato Damiano de Veuster"
+20180511;20180511;"FREQ=YEARLY;INTERVAL=1";"san Fabio; san Giobbe"
+20180512;20180512;"FREQ=YEARLY;INTERVAL=1";"santi Nereo e Achilleo (martiri) - Memoria facoltativa; san Leopoldo Mandic - Memoria facoltativa; san Pancrazio martire - Memoria facoltativa"
+20180513;20180513;"FREQ=YEARLY;INTERVAL=1";Nostra Signora di Fatima
+20180514;20180514;"FREQ=YEARLY;INTERVAL=1";san Mattia Apostolo - Festa
+20180515;20180515;"FREQ=YEARLY;INTERVAL=1";sant'Isidoro
+20180516;20180516;"FREQ=YEARLY;INTERVAL=1";sant'Onorato (vescovo), sant'Ubaldo (vescovo), santa Gemma Galgani (vergine)
+20180517;20180517;"FREQ=YEARLY;INTERVAL=1";san Pasquale Baylon
+20180518;20180518;"FREQ=YEARLY;INTERVAL=1";"san Giovanni I (papa e martire) - Memoria facoltativa; san Leonardo Murialdo"
+20180519;20180519;"FREQ=YEARLY;INTERVAL=1";"santa Claudine; san Celestino V (eremita e Papa)"
+20180520;20180520;"FREQ=YEARLY;INTERVAL=1";san Bernardino da Siena (sacerdote) - Memoria facoltativa
+20180521;20180521;"FREQ=YEARLY;INTERVAL=1";san Cristoforo Magallanes e compagni santa GIULIA
+20180522;20180522;"FREQ=YEARLY;INTERVAL=1";santa Rita da Cascia
+20180523;20180523;"FREQ=YEARLY;INTERVAL=1";san Desiderio
+20180524;20180524;"FREQ=YEARLY;INTERVAL=1";santa Maria Ausiliatrice
+20180525;20180525;"FREQ=YEARLY;INTERVAL=1";"san Beda il Venerabile - Memoria facoltativa; san Gregorio VII - Memoria facoltativa; santa Maria Maddalena de' Pazzi - Memoria facoltativa"
+20180526;20180526;"FREQ=YEARLY;INTERVAL=1";san Filippo Neri - Memoria
+20180527;20180527;"FREQ=YEARLY;INTERVAL=1";sant'Agostino di Canterbury (vescovo) - Memoria facoltativa
+20180528;20180528;"FREQ=YEARLY;INTERVAL=1";"san Just; sant'Emilio"
+20180529;20180529;"FREQ=YEARLY;INTERVAL=1";santa Restituta
+20180530;20180530;"FREQ=YEARLY;INTERVAL=1";santa Giovanna d'Arco
+20180531;20180531;"FREQ=YEARLY;INTERVAL=1";Visitazione della Beata Vergine Maria - Festa
+20180601;20180601;"FREQ=YEARLY;INTERVAL=1";san Giustino martire - Memoria
+20180602;20180602;"FREQ=YEARLY;INTERVAL=1";santi Marcellino e Pietro - Memoria facoltativa sant'Erasmo di Formia (LT) (vescovo e martire)
+20180603;20180603;"FREQ=YEARLY;INTERVAL=1";"san Carlo Lwanga e compagni (martiri) - Memoria; Madonna della Lettera (Patrona di Messina)"
+20180604;20180604;"FREQ=YEARLY;INTERVAL=1";san Francesco Caracciolo
+20180605;20180605;"FREQ=YEARLY;INTERVAL=1";san Bonifacio (vescovo e martire) - Memoria
+20180606;20180606;"FREQ=YEARLY;INTERVAL=1";san Norberto (vescovo) - Memoria facoltativa
+20180607;20180607;"FREQ=YEARLY;INTERVAL=1";"san Candido; sant'Antonio Maria Gianelli; san Roberto"
+20180608;20180608;"FREQ=YEARLY;INTERVAL=1";"san Massimino; san Medardo"
+20180609;20180609;"FREQ=YEARLY;INTERVAL=1";sant'Efrem il Siro (dottore della Chiesa) - Memoria facoltativa
+20180610;20180610;"FREQ=YEARLY;INTERVAL=1";santa Diana (martire)
+20180611;20180611;"FREQ=YEARLY;INTERVAL=1";san Barnaba apostolo - Memoria
+20180612;20180612;"FREQ=YEARLY;INTERVAL=1";san Giovanni da Sahagun
+20180613;20180613;"FREQ=YEARLY;INTERVAL=1";sant'Antonio di Padova (sacerdote e dottore della Chiesa) - Memoria
+20180614;20180614;"FREQ=YEARLY;INTERVAL=1";sant'Eliseo (profeta)
+20180615;20180615;"FREQ=YEARLY;INTERVAL=1";san Vito
+20180616;20180616;"FREQ=YEARLY;INTERVAL=1";san Quirico martire
+20180617;20180617;"FREQ=YEARLY;INTERVAL=1";"san Ranieri; san Manuele (martire) santi Nicandro, Marciano e Daria (martiri)"
+20180618;20180618;"FREQ=YEARLY;INTERVAL=1";sant'Erasmo (anacoreta e confessore) santa Marina
+20180619;20180619;"FREQ=YEARLY;INTERVAL=1";"santi Gervasio e Protasio (martiri); san Romualdo (abate) - Memoria facoltativa"
+20180620;20180620;"FREQ=YEARLY;INTERVAL=1";sant'Ettore (martire)
+20180621;20180621;"FREQ=YEARLY;INTERVAL=1";san Luigi Gonzaga (religioso) - Memoria
+20180622;20180622;"FREQ=YEARLY;INTERVAL=1";"san Giovanni Fisher (vescovo) e san Tommaso Moro (martiri) - Memoria facoltativa; san Paolino di Nola - Memoria facoltativa"
+20180623;20180623;"FREQ=YEARLY;INTERVAL=1";"santi Martiri di Nicomedia; san Lanfranco"
+20180624;20180624;"FREQ=YEARLY;INTERVAL=1";Natività di san Giovanni Battista - Solennità
+20180625;20180625;"FREQ=YEARLY;INTERVAL=1";san Guglielmo
+20180626;20180626;"FREQ=YEARLY;INTERVAL=1";san Josemaría Escrivá de Balaguer
+20180627;20180627;"FREQ=YEARLY;INTERVAL=1";"san Cirillo di Alessandria (vescovo e dottore della Chiesa) - Memoria facoltativa; san Ferdinando d'Aragona (vescovo)"
+20180628;20180628;"FREQ=YEARLY;INTERVAL=1";sant'Ireneo di Lione (vescovo e martire) - Memoria
+20180629;20180629;"FREQ=YEARLY;INTERVAL=1";santi Pietro e Paolo (apostoli) - Solennità
+20180630;20180630;"FREQ=YEARLY;INTERVAL=1";Protomartiri della Chiesa di Roma - Memoria facoltativa
+20180701;20180701;"FREQ=YEARLY;INTERVAL=1";"sant'Aronne; santa Ester Regina"
+20180702;20180702;"FREQ=YEARLY;INTERVAL=1";san Bernardino Realino
+20180703;20180703;"FREQ=YEARLY;INTERVAL=1";san Tommaso apostolo - Festa
+20180704;20180704;"FREQ=YEARLY;INTERVAL=1";sant'Elisabetta di Portogallo - Memoria facoltativa
+20180705;20180705;"FREQ=YEARLY;INTERVAL=1";sant'Antonio Maria Zaccaria (sacerdote) - Memoria facoltativa
+20180706;20180706;"FREQ=YEARLY;INTERVAL=1";santa Maria Goretti (vergine e martire) - Memoria facoltativa
+20180707;20180707;"FREQ=YEARLY;INTERVAL=1";"san Claudio; sant'Edda"
+20180708;20180708;"FREQ=YEARLY;INTERVAL=1";"sant'Adriano; san Pancrazio vescovo - Memoria facoltativa"
+20180709;20180709;"FREQ=YEARLY;INTERVAL=1";sant'Agostino Zhao Rong e 119 compagni martiri in Cina
+20180710;20180710;"FREQ=YEARLY;INTERVAL=1";san Silvano (martire)
+20180711;20180711;"FREQ=YEARLY;INTERVAL=1";san Benedetto da Norcia (abate, patrono d'Europa) - Festa
+20180712;20180712;"FREQ=YEARLY;INTERVAL=1";san Giovanni Gualberto (abate)
+20180713;20180713;"FREQ=YEARLY;INTERVAL=1";sant'Enrico - Memoria facoltativa
+20180714;20180714;"FREQ=YEARLY;INTERVAL=1";san Camillo de Lellis (sacerdote) - Memoria facoltativa
+20180715;20180715;"FREQ=YEARLY;INTERVAL=1";san Bonaventura (vescovo e dottore della Chiesa) - Memoria
+20180716;20180716;"FREQ=YEARLY;INTERVAL=1";Beata Vergine Maria del Monte Carmelo - Memoria
+20180717;20180717;"FREQ=YEARLY;INTERVAL=1";sant'Alessio
+20180718;20180718;"FREQ=YEARLY;INTERVAL=1";sant'Arnolfo di Metz (vescovo)
+20180719;20180719;"FREQ=YEARLY;INTERVAL=1";san Pietro Crisci da Foligno
+20180720;20180720;"FREQ=YEARLY;INTERVAL=1";sant'Apollinare da Ravenna
+20180721;20180721;"FREQ=YEARLY;INTERVAL=1";"san Lorenzo da Brindisi (sacerdote e dottore della Chiesa) - Memoria facoltativa; san Daniele;"
+20180722;20180722;"FREQ=YEARLY;INTERVAL=1";santa Maria Maddalena - Festa
+20180723;20180723;"FREQ=YEARLY;INTERVAL=1";santa Brigida di Svezia (religiosa, patrona d'Europa) - Festa
+20180724;20180724;"FREQ=YEARLY;INTERVAL=1";"santa Cristina; san Charbel Makhlouf"
+20180725;20180725;"FREQ=YEARLY;INTERVAL=1";san Giacomo (apostolo) - Festa
+20180726;20180726;"FREQ=YEARLY;INTERVAL=1";"san Gioacchino e sant'Anna (genitori della Beata Vergine Maria) - Memoria ;"
+20180726;20180726;"FREQ=YEARLY;INTERVAL=1";"Santa Venera Vergine e Martire (Patrona della città e della diocesi di Acireale- Festa solo nella Diocesi di Acireale);"
+20180727;20180727;"FREQ=YEARLY;INTERVAL=1";santa Natalia
+20180728;20180728;"FREQ=YEARLY;INTERVAL=1";"santi Nazario e Celso (martiri); san Vittore I"
+20180729;20180729;"FREQ=YEARLY;INTERVAL=1";santa Marta di Betania - Memoria
+20180730;20180730;"FREQ=YEARLY;INTERVAL=1";san Pietro Crisologo (vescovo e dottore della Chiesa) - Memoria facoltativa
+20180731;20180731;"FREQ=YEARLY;INTERVAL=1";sant'Ignazio di Loyola (sacerdote) - Memoria
+20180801;20180801;"FREQ=YEARLY;INTERVAL=1";sant'Alfonso Maria de' Liguori - Memoria
+20180802;20180802;"FREQ=YEARLY;INTERVAL=1";sant'Eusebio di Vercelli o san Pietro Giuliano Eymard - Memoria facoltativa
+20180803;20180803;"FREQ=YEARLY;INTERVAL=1";"santa Lidia; san Nicolò Politi"
+20180804;20180804;"FREQ=YEARLY;INTERVAL=1";san Giovanni Maria Vianney (il curato d' Ars) - Memoria
+20180805;20180805;"FREQ=YEARLY;INTERVAL=1";Dedicazione della basilica di Santa Maria Maggiore - Memoria facoltativa
+20180806;20180806;"FREQ=YEARLY;INTERVAL=1";Trasfigurazione del Signore - Festa
+20180807;20180807;"FREQ=YEARLY;INTERVAL=1";"san Sisto II e compagni (martiri) - Memoria facoltativa; san Gaetano - Memoria facoltativa; san Donato d'Arezzo"
+20180808;20180808;"FREQ=YEARLY;INTERVAL=1";san Domenico di Guzmán - Memoria
+20180809;20180809;"FREQ=YEARLY;INTERVAL=1";santa Teresa Benedetta della Croce (Edith Stein) - Festa
+20180810;20180810;"FREQ=YEARLY;INTERVAL=1";san Lorenzo (Diacono e martire) - Festa
+20180811;20180811;"FREQ=YEARLY;INTERVAL=1";santa Chiara (vergine) - Memoria
+20180812;20180812;"FREQ=YEARLY;INTERVAL=1";santa Giovanna Francesca de Chantal
+20180813;20180813;"FREQ=YEARLY;INTERVAL=1";santi Ponziano e Ippolito - Memoria facoltativa
+20180814;20180814;"FREQ=YEARLY;INTERVAL=1";san Massimiliano Maria Kolbe (sacerdote e martire) - Memoria
+20180815;20180815;"FREQ=YEARLY;INTERVAL=1";Assunzione di Maria - Solennità
+20180816;20180816;"FREQ=YEARLY;INTERVAL=1";"santo Stefano d'Ungheria - Memoria facoltativa; san Rocco"
+20180817;20180817;"FREQ=YEARLY;INTERVAL=1";"sant'Elia di Enna - Festa; san Mamante martire; san Giacinto; san Nicolò Politi"
+20180818;20180818;"FREQ=YEARLY;INTERVAL=1";sant'Elena san Marone
+20180819;20180819;"FREQ=YEARLY;INTERVAL=1";san Giovanni Eudes (sacerdote) - Memoria facoltativa
+20180820;20180820;"FREQ=YEARLY;INTERVAL=1";san Bernardo di Chiaravalle (abate e dottore della Chiesa) - Memoria
+20180821;20180821;"FREQ=YEARLY;INTERVAL=1";san Pio X - Memoria
+20180822;20180822;"FREQ=YEARLY;INTERVAL=1";Beata Vergine Maria Regina - Memoria
+20180823;20180823;"FREQ=YEARLY;INTERVAL=1";santa Rosa da Lima - Memoria facoltativa
+20180824;20180824;"FREQ=YEARLY;INTERVAL=1";san Bartolomeo apostolo - Festa
+20180825;20180825;"FREQ=YEARLY;INTERVAL=1";"san Ludovico (o san Luigi dei Francesi) - Memoria facoltativa; san Giuseppe Calasanzio - Memoria facoltativa"
+20180826;20180826;"FREQ=YEARLY;INTERVAL=1";"sant'Anastasio di Salona; sant'Alessandro di Bergamo"
+20180827;20180827;"FREQ=YEARLY;INTERVAL=1";santa Monica - Memoria
+20180828;20180828;"FREQ=YEARLY;INTERVAL=1";sant'Agostino d'Ippona (vescovo e dottore della Chiesa) - Memoria
+20180829;20180829;"FREQ=YEARLY;INTERVAL=1";Martirio di san Giovanni Battista (san Giovanni Decollato) - Memoria
+20180830;20180830;"FREQ=YEARLY;INTERVAL=1";"san Fiacre (monaco irlandese); Madonna di Siponto (patrona di Manfredonia)"
+20180831;20180831;"FREQ=YEARLY;INTERVAL=1";san Raimondo Nonnato
+20180901;20180901;"FREQ=YEARLY;INTERVAL=1";sant'Egidio
+20180902;20180902;"FREQ=YEARLY;INTERVAL=1";sant'Elpidio
+20180903;20180903;"FREQ=YEARLY;INTERVAL=1";san Gregorio Magno (papa e dottore della Chiesa) - Memoria
+20180904;20180904;"FREQ=YEARLY;INTERVAL=1";"santa Rosalia; san Tesauro (martirologio benedettino)"
+20180905;20180905;"FREQ=YEARLY;INTERVAL=1";beata Madre Teresa di Calcutta
+20180906;20180906;"FREQ=YEARLY;INTERVAL=1";"Zaccaria (profeta); beato Angelo da Foligno"
+20180907;20180907;"FREQ=YEARLY;INTERVAL=1";santa Regina
+20180908;20180908;"FREQ=YEARLY;INTERVAL=1";Natività della Beata Vergine Maria - Festa
+20180909;20180909;"FREQ=YEARLY;INTERVAL=1";san Pietro Claver
+20180910;20180910;"FREQ=YEARLY;INTERVAL=1";san Nicola da Tolentino
+20180911;20180911;"FREQ=YEARLY;INTERVAL=1";san Ramiro
+20180912;20180912;"FREQ=YEARLY;INTERVAL=1";"Santissimo Nome di Maria; san Tesauro"
+20180913;20180913;"FREQ=YEARLY;INTERVAL=1";san Giovanni Crisostomo (vescovo e dottore della Chiesa) - Memoria
+20180914;20180914;"FREQ=YEARLY;INTERVAL=1";Esaltazione della Santa Croce - Festa
+20180915;20180915;"FREQ=YEARLY;INTERVAL=1";Beata Vergine Maria Addolorata - Memoria
+20180916;20180916;"FREQ=YEARLY;INTERVAL=1";"santi Cornelio (papa) e Cipriano (vescovo) (martiri) - Memoria; santa Ludmilla"
+20180917;20180917;"FREQ=YEARLY;INTERVAL=1";san Roberto Bellarmino (vescovo e dottore della Chiesa) - Memoria facoltativa
+20180918;20180918;"FREQ=YEARLY;INTERVAL=1";santa Sofia (martire)
+20180919;20180919;"FREQ=YEARLY;INTERVAL=1";san Gennaro (vescovo e martire) - Memoria facoltativa
+20180920;20180920;"FREQ=YEARLY;INTERVAL=1";santi Andrea Kim Taeg?n, Paolo Ch?ng Hasang e compagni (martiri in Corea) - Memoria
+20180921;20180921;"FREQ=YEARLY;INTERVAL=1";san Matteo apostolo ed evangelista - Festa, Madonna delle Grazie
+20180922;20180922;"FREQ=YEARLY;INTERVAL=1";san Maurizio, Candido, Essuperio, Vittore e compagni (martiri)
+20180923;20180923;"FREQ=YEARLY;INTERVAL=1";"san Padre Pio da Pietrelcina; san Lino (papa)"
+20180924;20180924;"FREQ=YEARLY;INTERVAL=1";Beata Vergine Maria della Mercede
+20180925;20180925;"FREQ=YEARLY;INTERVAL=1";san Nicolao della Flüe (eremita)
+20180926;20180926;"FREQ=YEARLY;INTERVAL=1";Santi Cosma e Damiano (martiri) - Memoria facoltativa
+20180927;20180927;"FREQ=YEARLY;INTERVAL=1";san Vincenzo de' Paoli (sacerdote) - Memoria
+20180928;20180928;"FREQ=YEARLY;INTERVAL=1";"san Venceslao (martire) - Memoria facoltativa; san Prospero martire; san Lorenzo Ruiz e compagni - Memoria facoltativa"
+20180929;20180929;"FREQ=YEARLY;INTERVAL=1";santi Michele, Gabriele e Raffaele Arcangeli - Festa
+20180930;20180930;"FREQ=YEARLY;INTERVAL=1";san Girolamo (sacerdote e dottore della Chiesa) - Memoria
+20181001;20181001;"FREQ=YEARLY;INTERVAL=1";santa Teresa di Lisieux (vergine e dottore della Chiesa) - Memoria
+20181002;20181002;"FREQ=YEARLY;INTERVAL=1";Santi Angeli custodi - Memoria
+20181003;20181003;"FREQ=YEARLY;INTERVAL=1";"san Francesco Borgia; santa Geraldine; sant'Edmondo di Scozia"
+20181004;20181004;"FREQ=YEARLY;INTERVAL=1";san Francesco d'Assisi (Patrono d'Italia) - Festa
+20181005;20181005;"FREQ=YEARLY;INTERVAL=1";"san Placido (martire e discepolo di san Benedetto); santa Faustina Kowalska; Santi Martiri di Treviri (martiri della persecuzione dell’imperatore Diocleziano (243-313) a Treviri)"
+20181006;20181006;"FREQ=YEARLY;INTERVAL=1";San Bruno (sacerdote) - Memoria facoltativa
+20181007;20181007;"FREQ=YEARLY;INTERVAL=1";Beata Vergine Maria del Rosario - Memoria
+20181008;20181008;"FREQ=YEARLY;INTERVAL=1";"santa Reparata; san Giovanni Calabria; San Felice di Como vescovo."
+20181009;20181009;"FREQ=YEARLY;INTERVAL=1";"san Dionigi e compagni - Memoria facoltativa; san Giovanni Leonardi - Memoria facoltativa; san Donnino di Fidenza (martire)"
+20181010;20181010;"FREQ=YEARLY;INTERVAL=1";"san Tommaso di Villanova; san Daniele Comboni"
+20181011;20181011;"FREQ=YEARLY;INTERVAL=1";sant'Alessandro Sauli
+20181012;20181012;"FREQ=YEARLY;INTERVAL=1";Nostra Signora del Pilar
+20181013;20181013;"FREQ=YEARLY;INTERVAL=1";san Teofilo di Antiochia
+20181014;20181014;"FREQ=YEARLY;INTERVAL=1";san Callisto I (papa e martire) - Memoria facoltativa
+20181015;20181015;"FREQ=YEARLY;INTERVAL=1";santa Teresa d'Avila (vergine e dottore della Chiesa) - Memoria
+20181016;20181016;"FREQ=YEARLY;INTERVAL=1";"santa Edvige - Memoria facoltativa; santa Margherita Maria Alacoque - Memoria facoltativa"
+20181017;20181017;"FREQ=YEARLY;INTERVAL=1";sant'Ignazio di Antiochia (vescovo e martire) - Memoria
+20181018;20181018;"FREQ=YEARLY;INTERVAL=1";san Luca Evangelista - Festa
+20181019;20181019;"FREQ=YEARLY;INTERVAL=1";"san Paolo della Croce; santi Giovanni de Brébeuf, Isaac Jogues e compagni - Memoria facoltativa; santa Laura di Cordova"
+20181020;20181020;"FREQ=YEARLY;INTERVAL=1";santa Maria Bertilla Boscardin
+20181021;20181021;"FREQ=YEARLY;INTERVAL=1";san Gaspare del Bufalo
+20181022;20181022;"FREQ=YEARLY;INTERVAL=1";santa Maria Salomé (madre degli apostoli Giacomo e Giovanni)
+20181023;20181023;"FREQ=YEARLY;INTERVAL=1";san Giovanni da Capestrano (sacerdote) - Memoria facoltativa
+20181024;20181024;"FREQ=YEARLY;INTERVAL=1";sant'Antonio Maria Claret (vescovo) - Memoria facoltativa
+20181025;20181025;"FREQ=YEARLY;INTERVAL=1";santi Crispino e Crispinianoe san Cleto diacono di Tivoli e santa Daria Martire
+20181026;20181026;"FREQ=YEARLY;INTERVAL=1";"san Folco Scotti di Piacenza e Pavia; San Cedda, vescovo"
+20181027;20181027;"FREQ=YEARLY;INTERVAL=1";san Frumenzio
+20181028;20181028;"FREQ=YEARLY;INTERVAL=1";santi Simone e Giuda (apostoli) - Festa
+20181029;20181029;"FREQ=YEARLY;INTERVAL=1";sant'Ermelinda
+20181030;20181030;"FREQ=YEARLY;INTERVAL=1";san Marcello di Tangeri
+20181031;20181031;"FREQ=YEARLY;INTERVAL=1";santa Lucilla di Roma e San Quintino
+20181101;20181101;"FREQ=YEARLY;INTERVAL=1";Tutti i Santi
+20181102;20181102;"FREQ=YEARLY;INTERVAL=1";Commemorazione di tutti i fedeli defunti
+20181103;20181103;"FREQ=YEARLY;INTERVAL=1";Santa Silvia, san Martino de Porres (religioso) - Memoria facoltativa
+20181104;20181104;"FREQ=YEARLY;INTERVAL=1";san Carlo Borromeo (vescovo) - Memoria
+20181105;20181105;"FREQ=YEARLY;INTERVAL=1";beato Guido Maria Conforti (fondatore dei Missionari Saveriani)
+20181106;20181106;"FREQ=YEARLY;INTERVAL=1";san Leonardo di Noblac (eremita)
+20181107;20181107;"FREQ=YEARLY;INTERVAL=1";san Prosdocimo di Padova
+20181108;20181108;"FREQ=YEARLY;INTERVAL=1";santi Quattro Coronati
+20181109;20181109;"FREQ=YEARLY;INTERVAL=1";Dedicazione della basilica Lateranense - Festa
+20181110;20181110;"FREQ=YEARLY;INTERVAL=1";san Leone Magno (papa e dottore della Chiesa) - Memoria
+20181111;20181111;"FREQ=YEARLY;INTERVAL=1";san Martino di Tours (vescovo) - Memoria
+20181112;20181112;"FREQ=YEARLY;INTERVAL=1";san Giosafat Kuncewycz (vescovo e martire) - Memoria san Renato martire
+20181113;20181113;"FREQ=YEARLY;INTERVAL=1";"San Brizio di Tours; san Diego di Alcalà; sant'Omobono di Cremona;"
+20181114;20181114;"FREQ=YEARLY;INTERVAL=1";san Clementino
+20181115;20181115;"FREQ=YEARLY;INTERVAL=1";sant'Alberto Magno (vescovo e dottore della Chiesa) - Memoria facoltativa
+20181116;20181116;"FREQ=YEARLY;INTERVAL=1";santa Margherita di Scozia o santa Gertrude la Grande - Memoria facoltativa
+20181117;20181117;"FREQ=YEARLY;INTERVAL=1";santa Elisabetta d'Ungheria (religiosa) - Memoria
+20181118;20181118;"FREQ=YEARLY;INTERVAL=1";Dedicazione delle basiliche di Santi Pietro e Paolo apostoli - Memoria facoltativa
+20181119;20181119;"FREQ=YEARLY;INTERVAL=1";"santa Matilde di Hackeborn; san Fausto di Alessandria"
+20181120;20181120;"FREQ=YEARLY;INTERVAL=1";santi Avventore, Ottavio e Solutore
+20181121;20181121;"FREQ=YEARLY;INTERVAL=1";Presentazione della Beata Vergine Maria - Memoria
+20181122;20181122;"FREQ=YEARLY;INTERVAL=1";santa Cecilia - Memoria
+20181123;20181123;"FREQ=YEARLY;INTERVAL=1";"san Clemente I (papa e martire); san Colombano abate - Memoria facoltativa"
+20181124;20181124;"FREQ=YEARLY;INTERVAL=1";sant'Andrea Dung-Lac e compagni (martiri vietnamiti) - Memoria
+20181125;20181125;"FREQ=YEARLY;INTERVAL=1";santa Caterina d'Alessandria
+20181126;20181126;"FREQ=YEARLY;INTERVAL=1";"sant'Umile da Bisignano; san Leonardo da Porto Maurizio"
+20181127;20181127;"FREQ=YEARLY;INTERVAL=1";"san Primitivo; Beata Vergine della Medaglia Miracolosa ; san Gustavo"
+20181128;20181128;"FREQ=YEARLY;INTERVAL=1";san Giacomo della Marca
+20181129;20181129;"FREQ=YEARLY;INTERVAL=1";"San Francesco Antonio Fasani; san Saturnino"
+20181130;20181130;"FREQ=YEARLY;INTERVAL=1";sant'Andrea Apostolo - Festa
+20181201;20181201;"FREQ=YEARLY;INTERVAL=1";sant'Eligio (vescovo)
+20181202;20181202;"FREQ=YEARLY;INTERVAL=1";santa Bibiana
+20181203;20181203;"FREQ=YEARLY;INTERVAL=1";san Francesco Saverio (sacerdote) - Memoria
+20181204;20181204;"FREQ=YEARLY;INTERVAL=1";san Giovanni Damasceno (sacerdote e dottore della Chiesa) - Memoria facoltativa
+20181205;20181205;"FREQ=YEARLY;INTERVAL=1";san Saba (abate)
+20181206;20181206;"FREQ=YEARLY;INTERVAL=1";san Nicola (vescovo) - Memoria facoltativa
+20181207;20181207;"FREQ=YEARLY;INTERVAL=1";sant'Ambrogio (vescovo e dottore della Chiesa) - Memoria
+20181208;20181208;"FREQ=YEARLY;INTERVAL=1";Immacolata Concezione - Solennità
+20181209;20181209;"FREQ=YEARLY;INTERVAL=1";san Juan Diego Cuauhtlatoatzin (veggente di Guadalupe)
+20181210;20181210;"FREQ=YEARLY;INTERVAL=1";Beata Vergine Maria di Loreto
+20181211;20181211;"FREQ=YEARLY;INTERVAL=1";san Damaso I - Memoria facoltativa
+20181212;20181212;"FREQ=YEARLY;INTERVAL=1";"santa Giovanna Francesca de Chantal (religiosa) - Memoria facoltativa; Nostra Signora di Guadalupe"
+20181213;20181213;"FREQ=YEARLY;INTERVAL=1";santa Lucia da Siracusa - Memoria
+20181214;20181214;"FREQ=YEARLY;INTERVAL=1";san Giovanni della Croce (sacerdote e dottore della Chiesa) - Memoria
+20181215;20181215;"FREQ=YEARLY;INTERVAL=1";santa Maria Crocifissa Di Rosa e beato Carlo Steeb
+20181216;20181216;"FREQ=YEARLY;INTERVAL=1";santa Albina (martire)
+20181217;20181217;"FREQ=YEARLY;INTERVAL=1";san Giovanni de Matha
+20181218;20181218;"FREQ=YEARLY;INTERVAL=1";san Malachia (profeta)
+20181219;20181219;"FREQ=YEARLY;INTERVAL=1";san Dario di Nicea
+20181220;20181220;"FREQ=YEARLY;INTERVAL=1";san Domenico di Silos
+20181221;20181221;"FREQ=YEARLY;INTERVAL=1";san Pietro Canisio (sacerdote e dottore della Chiesa) - Memoria facoltativa
+20181222;20181222;"FREQ=YEARLY;INTERVAL=1";"santa Francesca Saverio Cabrini; san Demetrio"
+20181223;20181223;"FREQ=YEARLY;INTERVAL=1";san Giovanni da Kety (sacerdote) - Memoria facoltativa
+20181224;20181224;"FREQ=YEARLY;INTERVAL=1";san Giacobbe (profeta)
+20181225;20181225;"FREQ=YEARLY;INTERVAL=1";Natale del Signore - Solennità
+20181226;20181226;"FREQ=YEARLY;INTERVAL=1";santo Stefano protomartire - Festa
+20181227;20181227;"FREQ=YEARLY;INTERVAL=1";san Giovanni Evangelista - Festa
+20181228;20181228;"FREQ=YEARLY;INTERVAL=1";santi Innocenti - Festa
+20181229;20181229;"FREQ=YEARLY;INTERVAL=1";"san Tommaso Becket (vescovo e martire) - Memoria facoltativa; san Davide"
+20181230;20181230;"FREQ=YEARLY;INTERVAL=1";san Ruggero di Canne (vescovo)
+20181231;20181231;"FREQ=YEARLY;INTERVAL=1";"san Silvestro I - Memoria facoltativa; santa Melania"

@@ -2,9 +2,11 @@
 
 
 $InputFilename = $PSScriptRoot + "\template.csv"
+$InputFilename = $PSScriptRoot + "\2018.csv"
 $OutputFilename = $PSScriptRoot + "\output.ics"
 
-$CSV=Import-Csv $InputFilename
+#$CSV=Import-Csv $InputFilename
+$CSV=Import-Csv -Delimiter ";" $InputFilename
 
 # get CSV headers
 $Headers = $CSV | Get-member -MemberType 'NoteProperty' | Select-Object -ExpandProperty 'Name'
@@ -38,8 +40,9 @@ END:VTIMEZONE" > $OutputFilename
 ForEach ($Line in $CSV) {
     "BEGIN:VEVENT" >> $OutputFilename
     ForEach ($FieldName in $Headers) {
-        $($($FieldName)+"="+$($Line.$FieldName)) >> $OutputFilename
-    }    
+        $($($FieldName)+":"+$($Line.$FieldName)) >> $OutputFilename
+    }
+    "TRANSP:TRANSPARENT" >> $OutputFilename
     "END:VEVENT" >> $OutputFilename
 }
 
