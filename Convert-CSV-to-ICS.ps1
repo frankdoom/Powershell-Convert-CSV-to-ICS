@@ -2,11 +2,12 @@
 
 
 $InputFilename = $PSScriptRoot + "\template.csv"
-$InputFilename = $PSScriptRoot + "\2018.csv"
-$OutputFilename = $PSScriptRoot + "\output.ics"
+$InputFilename = $PSScriptRoot + "\2018-lite.csv"
+$OutputFilename = $PSScriptRoot + "\2018-lite.ics"
 
 #$CSV=Import-Csv $InputFilename
-$CSV=Import-Csv -Delimiter ";" $InputFilename
+#$CSV=Import-Csv -Delimiter ";" -Path $InputFilename
+$CSV=Import-Csv -Delimiter ";" -Encoding BigEndianUnicode -Path $InputFilename
 
 # get CSV headers
 $Headers = $CSV | Get-member -MemberType 'NoteProperty' | Select-Object -ExpandProperty 'Name'
