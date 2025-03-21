@@ -53,11 +53,11 @@ ForEach ($Line in $CSV) {
     $endDateTime = [datetime]::ParseExact("$($Line.'End Date') $($Line.'End Time')", 'dd/MM/yyyy HH:mm', $null)
 
     "BEGIN:VEVENT" >> $OutputFilename
-    "SUMMARY:$($(Line.Subject)" >> $OutputFilename
+    "SUMMARY:$($Line.Subject)" >> $OutputFilename
     "DTSTART:$($startDateTime.ToString('yyyyMMddTHHmmssZ'))" >> $OutputFilename
     "nDTEND:$($endDateTime.ToString('yyyyMMddTHHmmssZ'))" >> $OutputFilename
-    "LOCATION:$($entry.Location)" >> $OutputFilename
-    "DESCRIPTION:$($entry.Description)" >> $OutputFilename
+    "LOCATION:$($Line.Location)" >> $OutputFilename
+    "DESCRIPTION:$($Line.Description)" >> $OutputFilename
     "END:VEVENT" >> $OutputFilename >> $OutputFilename
 }
 
