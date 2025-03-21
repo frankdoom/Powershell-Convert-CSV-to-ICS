@@ -58,7 +58,7 @@ ForEach ($Line in $CSV) {
     "nDTEND:$($endDateTime.ToString('yyyyMMddTHHmmssZ'))" >> $OutputFilename
     "LOCATION:$($Line.Location)" >> $OutputFilename
     "DESCRIPTION:$($Line.Description)" >> $OutputFilename
-    "END:VEVENT" >> $OutputFilename >> $OutputFilename
+    "END:VEVENT" >> $OutputFilename
 }
 
 "END:VCALENDAR" >> $OutputFilename
