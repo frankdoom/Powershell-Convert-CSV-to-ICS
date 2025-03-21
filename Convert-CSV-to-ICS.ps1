@@ -1,6 +1,4 @@
-﻿# fonte dati http://it.cathopedia.org/wiki/Calendario_dei_santi
-
-$Filename = "calendar_appointments"
+﻿$Filename = "calendar_appointments"
 $Delimiter = ','
 $InputFilename = $PSScriptRoot + "\" + $Filename + ".csv"
 $OutputFilename = $PSScriptRoot + "\" + $Filename + ".ics"
@@ -17,6 +15,9 @@ PRODID:
 VERSION:2.0" > $OutputFilename
 
 ForEach ($Line in $CSV) {
+    $startDateTime = [datetime]::ParseExact("$($Line.'Start Date') $($Line.'Start Time')", 'dd/MM/yyyy HH:mm', $null)
+    $endDateTime = [datetime]::ParseExact("$($Line.'End Date') $($Line.'End Time')", 'dd/MM/yyyy HH:mm', $null)
+
     "BEGIN:VEVENT" >> $OutputFilename
     "SUMMARY:$($(Line.Subject)" >> $OutputFilename
     "DTSTART:$($startDateTime.ToString('yyyyMMddTHHmmssZ'))" >> $OutputFilename
@@ -27,9 +28,3 @@ ForEach ($Line in $CSV) {
 }
 
 "END:VCALENDAR" >> $OutputFilename
-
-
-# For ($i=0; $i -le $CSV.Count; $i++) {
-#    echo $i
-#    echo $CSV[$i]
-#}
