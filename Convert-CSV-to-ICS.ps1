@@ -1,13 +1,13 @@
 ﻿# fonte dati http://it.cathopedia.org/wiki/Calendario_dei_santi
 
-
-$InputFilename = $PSScriptRoot + "\template.csv"
-$InputFilename = $PSScriptRoot + "\2018-ascii.csv"
-$OutputFilename = $PSScriptRoot + "\2018-ascii.ics"
+$Filename = "calendar_appointments"
+$Delimiter = ','
+$InputFilename = $PSScriptRoot + "\" + $Filename + ".csv"
+$OutputFilename = $PSScriptRoot + "\" + $Filename + ".ics"
 
 #$CSV=Import-Csv $InputFilename
 #$CSV=Import-Csv -Delimiter ";" -Path $InputFilename
-$CSV=Import-Csv -Delimiter ';' -Path $InputFilename
+$CSV=Import-Csv -Delimiter $Delimiter -Path $InputFilename
 
 # get CSV headers
 $Headers = $CSV | Get-member -MemberType 'NoteProperty' | Select-Object -ExpandProperty 'Name'
