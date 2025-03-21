@@ -1,3 +1,24 @@
+<#
+.SYNOPSIS
+    Converts a CSV file to an ICS calendar file.
+
+.DESCRIPTION
+    This script reads a CSV file containing event details and converts it to an ICS calendar file.
+
+.PARAMETER InputFileBasename
+    Name of the input CSV file.
+
+.PARAMETER OutputFileBasename
+    Name of the output ICS file. If not provided, the input name will be used.
+
+.EXAMPLE
+    .\Convert-CSV-to-ICS.ps1 -InputFileBasename 'events' -OutputFileBasename 'events'
+
+.NOTES
+    Author: Francesco Menin
+    Date: 2025-03-21
+#>
+
 [CmdletBinding()]
 param (
     [Parameter(Mandatory=$true, HelpMessage="Name of the input CSV file without extension.")]
