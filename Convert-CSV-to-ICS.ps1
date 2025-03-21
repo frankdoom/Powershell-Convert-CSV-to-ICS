@@ -1,7 +1,20 @@
-﻿$Filename = "calendar_appointments"
+[CmdletBinding()]
+param (
+    [Parameter(Mandatory=$true, HelpMessage="Name of the input CSV file without extension.")]
+    [string]$InputFileBasename,
+    [Parameter(Mandatory=$false, HelpMessage="Name of the output ICS file without extension. If not provided, the input name will be used.")]
+    [string]$OutputFileBasename = $null
+)
+#$Filename = "calendar_appointments"
+
+# Se l'output filename non è fornito, usa lo stesso nome dell'input filename
+if (-not $OutputFileBasename) {
+    $OutputFileBasename = $InputFileBasename
+}
+
 $Delimiter = ','
-$InputFilename = $PSScriptRoot + "\" + $Filename + ".csv"
-$OutputFilename = $PSScriptRoot + "\" + $Filename + ".ics"
+$InputFilename = $PSScriptRoot + "\" + $InputFileBasename + ".csv"
+$OutputFilename = $PSScriptRoot + "\" + $OutputFileBasename + ".ics"
 
 #$CSV=Import-Csv $InputFilename
 #$CSV=Import-Csv -Delimiter ";" -Path $InputFilename
